@@ -1,6 +1,6 @@
 # iOS Skills
 
-A compact collection of reusable Codex skills for iOS engineering work.
+A compact collection of reusable skills for iOS engineering work.
 
 ## Included skills
 
