@@ -1,0 +1,4 @@
+interface:
+  display_name: "iPhone Duo Readiness Audit"
+  short_description: "Audit iOS apps for Duo resizability risks"
+  default_prompt: "Audit this iOS codebase for iPhone Duo readiness. Keep the review read-only, prioritize risks, and provide concrete remediation and verification steps."
